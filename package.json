@@ -1,0 +1,19 @@
+{
+  "name": "fitness-traker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Teojin02/fitness-traker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Teojin02/fitness-traker/issues"
+  },
+  "homepage": "https://github.com/Teojin02/fitness-traker#readme"
+}
