@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/Teojin02/fitness-traker/issues"
   },
-  "homepage": "https://github.com/Teojin02/fitness-traker#readme"
+  "homepage": "https://github.com/Teojin02/fitness-traker#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.10.9",
+    "morgan": "^1.10.0"
+  }
 }
